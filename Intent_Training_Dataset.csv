@@ -1,0 +1,250 @@
+user_input,intent
+hi,greet
+hello,greet
+hey,greet
+hey there,greet
+good morning,greet
+good afternoon,greet
+good evening,greet
+hi there,greet
+hello there,greet
+yo,greet
+hiya,greet
+hey mp,greet
+hey bot,greet
+hello mp chatbot,greet
+hi how are you,greet
+hi there mp,greet
+hi friend,greet
+hello again,greet
+hey you,greet
+hi chatbot,greet
+hey mp chatbot,greet
+hiya there,greet
+hey whats up,greet
+hi there bot,greet
+hello hello,greet
+sup,greet
+hi mate,greet
+hey pal,greet
+hi everyone,greet
+hey again,greet
+what's up, greet
+whats up, greet
+
+how are you,how_are_you
+how are you?,how_are_you
+how are you doing,how_are_you
+how are you doing today,how_are_you
+how do you feel,how_are_you
+how you doing,how_are_you
+hows it going,how_are_you
+are you okay,how_are_you
+are you doing well,how_are_you
+how have you been,how_are_you
+how are things,how_are_you
+how are you today,how_are_you
+tell me how you are,how_are_you
+how r u,how_are_you
+so how are you feeling,how_are_you
+just wondering how you are,how_are_you
+how is everything,how_are_you
+how are you lately,how_are_you
+how are you feeling today,how_are_you
+how is your day,how_are_you
+how is your day going,how_are_you
+are you all right,how_are_you
+are you ok today,how_are_you
+are you fine,how_are_you
+you good,how_are_you
+are you good today,how_are_you
+how goes it,how_are_you
+how are you these days,how_are_you
+hows everything with you,how_are_you
+how are things with you,how_are_you
+
+what can you do,discoverability
+what can you do?,discoverability
+what are you able to do,discoverability
+what are you able to do?,discoverability
+help,discoverability
+help me,discoverability
+i need help,discoverability
+please help me,discoverability
+how can you help me,discoverability
+how can you help,discoverability
+what are your features,discoverability
+what features do you have,discoverability
+what are your capabilities,discoverability
+what can this chatbot do,discoverability
+what can you do for me,discoverability
+tell me what you can do,discoverability
+explain your abilities,discoverability
+what sort of things can you do,discoverability
+what are you good at,discoverability
+how can you assist me,discoverability
+what assistance can you provide,discoverability
+list your features,discoverability
+what kind of help can you give,discoverability
+what can you actually do,discoverability
+how can you support me,discoverability
+in what ways can you help,discoverability
+what tasks can you do,discoverability
+tell me your functions,discoverability
+what is your purpose here,discoverability
+how can you be useful to me,discoverability
+
+what is my name,ask_name
+what is my name?,ask_name
+tell me my name,ask_name
+do you remember my name,ask_name
+do you know my name,ask_name
+can you tell me my name,ask_name
+what did i tell you my name was,ask_name
+what name did i give you,ask_name
+what have i told you my name is,ask_name
+do you still remember my name,ask_name
+you remember my name?,ask_name
+can you remember my name,ask_name
+tell me if you know my name,ask_name
+what do you think my name is,ask_name
+have you remembered my name,ask_name
+what did i say my name is,ask_name
+remind me of my name,ask_name
+do you recall my name,ask_name
+what did i call myself,ask_name
+do you know who i am,ask_name
+do you know what my name is,ask_name
+say my name,ask_name
+whats my name,ask_name
+can you recall my name,ask_name
+do you know my name yet,ask_name
+have i told you my name,ask_name
+tell me my name again,ask_name
+do you remember who i am,ask_name
+do you know my name now,ask_name
+what is the name i gave you,ask_name
+
+i want to book a flight,start_flight_booking
+i want to book a flight.,start_flight_booking
+book a flight,start_flight_booking
+book a flight for me,start_flight_booking
+help me book a flight,start_flight_booking
+can you book a flight for me,start_flight_booking
+can you help me book a flight,start_flight_booking
+i need to book a flight,start_flight_booking
+i need help booking a flight,start_flight_booking
+please help me book a flight,start_flight_booking
+i want to book plane tickets,start_flight_booking
+i want to book a plane,start_flight_booking
+id like to book a flight,start_flight_booking
+i would like to book a flight,start_flight_booking
+help me find a flight,start_flight_booking
+can you find me a flight,start_flight_booking
+can you help me find flights,start_flight_booking
+i want to arrange a flight,start_flight_booking
+i need to arrange a flight,start_flight_booking
+lets book a flight,start_flight_booking
+start flight booking,start_flight_booking
+start a flight booking,start_flight_booking
+can we start booking a flight,start_flight_booking
+help me start a flight booking,start_flight_booking
+help me with booking a flight,start_flight_booking
+i want you to book a flight for me,start_flight_booking
+assist me with booking a flight,start_flight_booking
+assist me in booking a flight,start_flight_booking
+can you assist with booking a flight,start_flight_booking
+i want to book a flight ticket,start_flight_booking
+
+thanks,thank
+thank you,thank
+thank you so much,thank
+thanks so much,thank
+thanks a lot,thank
+cheers,thank
+cheers for that,thank
+thanks for your help,thank
+okay thanks,thank
+ok thanks,thank
+great thanks,thank
+cool thanks,thank
+nice one thanks,thank
+brilliant thank you,thank
+appreciate it thanks,thank
+many thanks,thank
+thanks again,thank
+thanks for your assistance,thank
+thanks for helping me,thank
+thanks for the help,thank
+thanks for your support,thank
+thank you for your help,thank
+thank you very much,thank
+big thanks,thank
+thanks that helps,thank
+thanks that was useful,thank
+thanks for answering,thank
+thanks buddy,thank
+thanks mp chatbot,thank
+thanks for everything,thank
+
+no thats all,closing
+no thats everything,closing
+no thats fine,closing
+no im good,closing
+im good now,closing
+no nothing else,closing
+thats all from me,closing
+that is all,closing
+im done now,closing
+i dont need anything else,closing
+i am finished now,closing
+im finished thanks,closing
+that will be all,closing
+no thats it,closing
+no thats all thank you,closing
+no more questions,closing
+i have nothing else,closing
+that is everything,closing
+nothing else thanks,closing
+that is all from me,closing
+no more help needed,closing
+im okay now thanks,closing
+thats enough for now,closing
+thats all i needed,closing
+no further help needed,closing
+no further questions,closing
+im all done now,closing
+no thats okay,closing
+no thats enough,closing
+im fine now,closing
+
+what is my flight,query_booking
+what flight did i book,query_booking
+can you tell me my flight booking,query_booking
+what was my booking,query_booking
+show me my booking,query_booking
+what flight did i choose,query_booking
+tell me my booking details,query_booking
+what is my booking information,query_booking
+what flight do i have,query_booking
+what did i book,query_booking
+remind me my flight,query_booking
+remind me what i booked,query_booking
+tell me my flight again,query_booking
+what are my flight details,query_booking
+what booking do i have,query_booking
+what did i book with you,query_booking
+can you show me my booking,query_booking
+can you remind me my booking,query_booking
+show my flight booking,query_booking
+what is my current booking,query_booking
+what flights have i booked,query_booking
+what is the flight i booked,query_booking
+tell me which flight i booked,query_booking
+remind me which flight i chose,query_booking
+what flight is booked for me,query_booking
+do i have a booking,query_booking
+do i have any flights booked,query_booking
+tell me about my booking,query_booking
+what was the last flight i booked,query_booking
+what booking did we just make,query_booking

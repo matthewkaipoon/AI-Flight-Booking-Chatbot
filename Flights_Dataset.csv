@@ -1,0 +1,151 @@
+flight_id,origin_city,destination_city,departure_date,departure_time,arrival_date,flight_duration,cabin_class,price
+FL001,London,Paris,20/12/2025,08:10,20/12/2025,2,Economy,89
+FL002,London,Paris,20/12/2025,15:45,20/12/2025,2,Economy,105
+FL003,London,Paris,21/12/2025,09:30,21/12/2025,2,Business,185
+FL004,London,Paris,22/12/2025,18:00,22/12/2025,2,Premium Economy,140
+FL005,London,New York,20/12/2025,10:00,20/12/2025,8,Economy,520
+FL006,London,New York,20/12/2025,18:45,21/12/2025,8,Premium Economy,760
+FL007,London,New York,21/12/2025,12:30,21/12/2025,8,Business,1490
+FL008,London,New York,22/12/2025,09:15,22/12/2025,8,Economy,498
+FL009,London,Tokyo,22/12/2025,12:00,22/12/2025,11,Economy,890
+FL010,London,Tokyo,22/12/2025,21:30,23/12/2025,11,Premium Economy,1280
+FL011,London,Tokyo,23/12/2025,13:10,24/12/2025,11,Business,2490
+FL012,London,Tokyo,23/12/2025,07:45,23/12/2025,11,Economy,870
+FL013,London,Dubai,20/12/2025,09:40,20/12/2025,7,Economy,430
+FL014,London,Dubai,20/12/2025,22:10,21/12/2025,8,Business,1650
+FL015,London,Dubai,21/12/2025,07:30,21/12/2025,8,Economy,412
+FL016,London,Dubai,22/12/2025,14:20,22/12/2025,8,Premium Economy,900
+FL017,Paris,Berlin,20/12/2025,08:25,20/12/2025,2,Economy,69
+FL018,Paris,Berlin,21/12/2025,17:55,21/12/2025,2,Economy,74
+FL019,Paris,Berlin,22/12/2025,06:40,22/12/2025,2,Business,150
+FL020,Paris,Berlin,23/12/2025,20:15,23/12/2025,2,Economy,72
+FL021,Berlin,London,22/12/2025,07:45,22/12/2025,2,Economy,82
+FL022,Berlin,London,22/12/2025,18:10,22/12/2025,2,Economy,88
+FL023,Berlin,London,23/12/2025,10:30,23/12/2025,2,Business,160
+FL024,Berlin,London,23/12/2025,20:00,23/12/2025,2,Economy,95
+FL025,Rome,London,22/12/2025,09:35,22/12/2025,3,Economy,90
+FL026,Rome,London,22/12/2025,20:05,22/12/2025,3,Economy,96
+FL027,Rome,London,23/12/2025,16:15,23/12/2025,3,Business,210
+FL028,Rome,London,24/12/2025,07:00,24/12/2025,3,Economy,85
+FL029,New York,London,25/12/2025,14:30,25/12/2025,8,Economy,540
+FL030,New York,London,25/12/2025,22:00,26/12/2025,8,Premium Economy,810
+FL031,New York,London,26/12/2025,09:00,26/12/2025,8,Business,1580
+FL032,New York,London,26/12/2025,18:20,27/12/2025,8,Economy,499
+FL033,Tokyo,London,27/12/2025,10:00,27/12/2025,11,Economy,900
+FL034,Tokyo,London,27/12/2025,19:30,28/12/2025,11,Premium Economy,1320
+FL035,Tokyo,London,28/12/2025,08:45,28/12/2025,11,Business,2600
+FL036,Tokyo,London,28/12/2025,22:10,29/12/2025,11,Economy,880
+FL037,Dubai,London,24/12/2025,02:30,24/12/2025,8,Economy,450
+FL038,Dubai,London,24/12/2025,11:00,24/12/2025,8,Business,1700
+FL039,Dubai,London,25/12/2025,20:25,26/12/2025,8,Economy,440
+FL040,Dubai,London,25/12/2025,07:15,25/12/2025,8,Premium Economy,980
+FL041,Amsterdam,London,20/12/2025,07:50,20/12/2025,1,Economy,65
+FL042,Amsterdam,London,20/12/2025,18:20,20/12/2025,1,Economy,70
+FL043,Amsterdam,London,21/12/2025,12:10,21/12/2025,1,Business,160
+FL044,Amsterdam,London,22/12/2025,20:40,22/12/2025,1,Economy,75
+FL045,Madrid,London,22/12/2025,09:00,22/12/2025,2,Economy,88
+FL046,Madrid,London,22/12/2025,19:30,22/12/2025,2,Economy,92
+FL047,Madrid,London,23/12/2025,06:20,23/12/2025,2,Business,205
+FL048,Madrid,London,24/12/2025,15:10,24/12/2025,2,Economy,84
+FL049,London,Barcelona,20/12/2025,10:20,20/12/2025,3,Economy,110
+FL050,London,Barcelona,20/12/2025,19:15,20/12/2025,3,Economy,115
+FL051,Paris,London,20/12/2025,08:00,20/12/2025,2,Economy,95
+FL052,Paris,London,21/12/2025,18:30,21/12/2025,2,Economy,99
+FL053,London,Rome,22/12/2025,08:30,22/12/2025,3,Economy,100
+FL054,London,Rome,23/12/2025,19:00,23/12/2025,3,Business,230
+FL055,London,Amsterdam,20/12/2025,06:40,20/12/2025,1,Economy,72
+FL056,London,Amsterdam,21/12/2025,17:20,21/12/2025,1,Economy,78
+FL057,London,Madrid,22/12/2025,07:15,22/12/2025,2,Economy,90
+FL058,London,Madrid,23/12/2025,18:10,23/12/2025,2,Economy,96
+FL059,Barcelona,London,20/12/2025,07:00,20/12/2025,3,Economy,112
+FL060,Barcelona,London,21/12/2025,18:30,21/12/2025,3,Economy,118
+FL061,Berlin,Paris,21/12/2025,09:10,21/12/2025,2,Economy,80
+FL062,Berlin,Paris,22/12/2025,20:40,22/12/2025,2,Economy,88
+FL063,Madrid,Barcelona,30/12/2025,21:05,30/12/2025,1,Economy,44
+FL064,London,Berlin,31/12/2025,21:05,31/12/2025,2,Premium Economy,128
+FL065,Madrid,London,29/12/2025,13:55,29/12/2025,2,Business,256
+FL066,London,Tokyo,27/12/2025,11:20,27/12/2025,11,Economy,484
+FL067,Berlin,Paris,27/12/2025,11:20,27/12/2025,2,Premium Economy,128
+FL068,Tokyo,London,27/12/2025,18:40,28/12/2025,11,Business,1408
+FL069,London,Paris,31/12/2025,18:40,31/12/2025,2,Business,256
+FL070,London,Madrid,27/12/2025,11:20,27/12/2025,2,Premium Economy,128
+FL071,Tokyo,London,30/12/2025,21:05,31/12/2025,11,Economy,484
+FL072,Dubai,London,29/12/2025,11:20,29/12/2025,8,Business,1024
+FL073,Madrid,London,18/12/2025,06:15,18/12/2025,2,Economy,88
+FL074,Barcelona,London,31/12/2025,13:55,31/12/2025,3,Economy,132
+FL075,London,Amsterdam,29/12/2025,08:45,29/12/2025,1,Economy,44
+FL076,London,Rome,29/12/2025,13:55,29/12/2025,3,Premium Economy,192
+FL077,London,New York,18/12/2025,13:55,18/12/2025,8,Economy,352
+FL078,Paris,Berlin,29/12/2025,21:05,30/12/2025,2,Business,256
+FL079,London,Paris,24/12/2025,18:40,24/12/2025,2,Premium Economy,128
+FL080,Berlin,Amsterdam,18/12/2025,11:20,18/12/2025,2,Premium Economy,128
+FL081,New York,London,30/12/2025,18:40,31/12/2025,8,Economy,352
+FL082,Madrid,London,30/12/2025,16:10,30/12/2025,2,Premium Economy,128
+FL083,London,New York,19/12/2025,21:05,20/12/2025,8,Business,1024
+FL084,Dubai,London,29/12/2025,16:10,29/12/2025,8,Economy,352
+FL085,Amsterdam,London,19/12/2025,06:15,19/12/2025,1,Premium Economy,64
+FL086,London,Barcelona,31/12/2025,11:20,31/12/2025,3,Business,384
+FL087,Paris,Madrid,27/12/2025,06:15,27/12/2025,2,Economy,88
+FL088,London,Amsterdam,30/12/2025,18:40,30/12/2025,1,Business,128
+FL089,Amsterdam,Berlin,18/12/2025,21:05,19/12/2025,2,Business,256
+FL090,Berlin,London,24/12/2025,13:55,24/12/2025,2,Economy,88
+FL091,London,Paris,30/12/2025,06:15,30/12/2025,2,Economy,88
+FL092,Barcelona,London,29/12/2025,23:30,30/12/2025,3,Premium Economy,192
+FL093,London,Madrid,18/12/2025,08:45,18/12/2025,2,Economy,88
+FL094,London,New York,31/12/2025,23:30,01/01/2026,8,Premium Economy,640
+FL095,London,Tokyo,29/12/2025,13:55,29/12/2025,11,Business,1408
+FL096,Tokyo,London,18/12/2025,08:45,18/12/2025,11,Economy,484
+FL097,Rome,London,31/12/2025,18:40,31/12/2025,3,Economy,132
+FL098,London,Dubai,19/12/2025,11:20,19/12/2025,8,Premium Economy,640
+FL099,New York,London,29/12/2025,13:55,29/12/2025,8,Business,1024
+FL100,London,New York,30/12/2025,08:45,30/12/2025,8,Economy,352
+FL101,Berlin,Paris,24/12/2025,06:15,24/12/2025,2,Economy,88
+FL102,Paris,Berlin,31/12/2025,13:55,31/12/2025,2,Premium Economy,128
+FL103,Madrid,London,27/12/2025,06:15,27/12/2025,2,Economy,88
+FL104,London,Barcelona,27/12/2025,13:55,27/12/2025,3,Premium Economy,192
+FL105,Barcelona,London,31/12/2025,21:05,31/12/2025,3,Business,384
+FL106,London,Amsterdam,18/12/2025,11:20,18/12/2025,1,Economy,44
+FL107,Amsterdam,London,27/12/2025,23:30,28/12/2025,1,Premium Economy,64
+FL108,London,Rome,30/12/2025,21:05,30/12/2025,3,Economy,132
+FL109,Rome,London,29/12/2025,11:20,29/12/2025,3,Premium Economy,192
+FL110,Dubai,London,31/12/2025,13:55,31/12/2025,8,Business,1024
+FL111,London,Dubai,30/12/2025,18:40,30/12/2025,8,Economy,352
+FL112,London,Madrid,19/12/2025,11:20,19/12/2025,2,Business,256
+FL113,Paris,London,29/12/2025,08:45,29/12/2025,2,Economy,88
+FL114,London,Paris,18/12/2025,13:55,18/12/2025,2,Economy,88
+FL115,Amsterdam,Berlin,29/12/2025,16:10,29/12/2025,2,Economy,88
+FL116,Berlin,Amsterdam,30/12/2025,06:15,30/12/2025,2,Premium Economy,128
+FL117,Madrid,Paris,29/12/2025,11:20,29/12/2025,2,Economy,88
+FL118,Paris,Rome,30/12/2025,13:55,30/12/2025,2,Business,256
+FL119,Rome,Paris,31/12/2025,16:10,31/12/2025,2,Economy,88
+FL120,Barcelona,Madrid,27/12/2025,08:45,27/12/2025,1,Economy,44
+FL121,Madrid,Barcelona,18/12/2025,13:55,18/12/2025,1,Premium Economy,64
+FL122,New York,London,19/12/2025,06:15,19/12/2025,8,Economy,352
+FL123,London,New York,27/12/2025,18:40,28/12/2025,8,Premium Economy,640
+FL124,Tokyo,London,29/12/2025,16:10,30/12/2025,11,Business,1408
+FL125,London,Tokyo,31/12/2025,23:30,01/01/2026,11,Economy,484
+FL126,Dubai,London,18/12/2025,21:05,19/12/2025,8,Economy,352
+FL127,London,Dubai,27/12/2025,06:15,27/12/2025,8,Business,1024
+FL128,Berlin,London,19/12/2025,11:20,19/12/2025,2,Economy,88
+FL129,London,Berlin,30/12/2025,16:10,30/12/2025,2,Economy,88
+FL130,Paris,London,31/12/2025,23:30,01/01/2026,2,Premium Economy,128
+FL131,London,Paris,27/12/2025,06:15,27/12/2025,2,Business,256
+FL132,Amsterdam,London,29/12/2025,13:55,29/12/2025,1,Economy,44
+FL133,London,Amsterdam,31/12/2025,18:40,31/12/2025,1,Premium Economy,64
+FL134,Rome,London,18/12/2025,21:05,19/12/2025,3,Economy,132
+FL135,London,Rome,19/12/2025,06:15,19/12/2025,3,Economy,132
+FL136,Barcelona,London,27/12/2025,11:20,27/12/2025,3,Premium Economy,192
+FL137,London,Barcelona,29/12/2025,21:05,30/12/2025,3,Business,384
+FL138,Madrid,London,31/12/2025,08:45,31/12/2025,2,Economy,88
+FL139,London,Madrid,30/12/2025,13:55,30/12/2025,2,Premium Economy,128
+FL140,Paris,Berlin,18/12/2025,16:10,18/12/2025,2,Economy,88
+FL141,Berlin,Paris,19/12/2025,18:40,19/12/2025,2,Business,256
+FL142,Amsterdam,Berlin,31/12/2025,08:45,31/12/2025,2,Premium Economy,128
+FL143,Berlin,Amsterdam,27/12/2025,13:55,27/12/2025,2,Economy,88
+FL144,New York,London,18/12/2025,23:30,19/12/2025,8,Premium Economy,640
+FL145,London,New York,29/12/2025,06:15,29/12/2025,8,Economy,352
+FL146,Tokyo,London,31/12/2025,11:20,31/12/2025,11,Economy,484
+FL147,London,Tokyo,30/12/2025,18:40,31/12/2025,11,Premium Economy,640
+FL148,Dubai,London,27/12/2025,16:10,27/12/2025,8,Business,1024
+FL149,London,Dubai,18/12/2025,13:55,18/12/2025,8,Economy,352
+FL150,London,Paris,29/12/2025,23:30,30/12/2025,2,Economy,88
